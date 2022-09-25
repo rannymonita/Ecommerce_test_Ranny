@@ -12,7 +12,10 @@ body {
 .slot-4 {
   margin: 0 auto;
   padding: 18px 112px;
-  width: 1300px;
+}
+
+.bg-white {
+  background-color: white;
 }
 
 .float-text-center-left {
@@ -26,9 +29,8 @@ body {
   padding: 10px auto;
 }
 
-.paragraph-dsg-slot2-slot3 {
-  margin: 0 auto;
-  padding: 10px 100px 10px 10px;
+.slot2-p-style {
+  margin-left: 50px;
 }
 
 .title {
@@ -60,16 +62,16 @@ body {
 }
 
 .brown-button {
-      display: block;
-    margin: 20px auto;
-    background: #3e1600;
-    border: 1px solid #3e1600;
-    border-radius: 30px;
-    padding: 16px 24px;
-    font-size: 16px;
-    letter-spacing: 1px;
-    line-height: 22px;
-    color: rgb(255, 255, 255);
-    box-shadow: 0px 7px 8px 0 rgb(255 255 255 / 10%);
-    transition: all 200ms ease-in-out;
+  text-transform: uppercase;
+  display: block;
+  background: #3e1600;
+  border: 1px solid #3e1600;
+  border-radius: 30px;
+  padding: 16px 24px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 22px;
+  color: rgb(255, 255, 255);
+  box-shadow: 0px 7px 8px 0 rgb(255 255 255 / 10%);
+  transition: all 200ms ease-in-out;
 }
