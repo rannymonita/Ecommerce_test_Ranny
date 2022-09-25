@@ -18,21 +18,14 @@
   line-height: 24px;
 }
 
-.btn {
+.btn-bd-primary {
   background-color: #3e1600;
   border: 1px solid #3e1600;
-  border-radius: 10px;
-  padding: 20px auto;
+  padding: 10px 26px;
+  border-radius: 30px;
+  font-size: 12px;
 }
 
-.btn-primary {
-  text-transform: uppercase;
-  background-color: #3e1600;
-  border: 1px solid #3e1600;
-  border-radius: 10px;
-  padding: 20px auto;
-}
-
-.slot1.row {
+.transparent-bg {
   background: rgba(0, 0, 0, 0.5);
 }
