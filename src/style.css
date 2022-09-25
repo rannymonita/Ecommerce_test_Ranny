@@ -49,6 +49,13 @@ body {
 .title-3 {
   text-transform: uppercase;
   font-size: 26px;
+  text-align: left;
+}
+
+.title-4 {
+  font-weight: bold;
+  font-size: 14px;
+  text-align: left;
 }
 
 .paragraph-text {
@@ -62,6 +69,12 @@ body {
   line-height: 20px;
   text-align: left;
   letter-spacing: 0px;
+  color: #545454;
+}
+
+.paragraph-text-4 {
+  font-size: 10px;
+  text-align: left;
   color: #545454;
 }
 
