@@ -12,6 +12,7 @@ body {
 .slot-4 {
   margin: 0 auto;
   padding: 18px 112px;
+  width: 1300px;
 }
 
 .float-text-center-left {
@@ -36,20 +37,17 @@ body {
   text-align: left;
 }
 
+.title-2 {
+  font-size: 30px;
+  line-height: 50px;
+  text-align: left;
+}
+
 .paragraph-text {
   font-size: 18px;
   line-height: 24px;
   text-align: left;
 }
-
-.paragraph-text .padding-top {
-  padding-top: 20px;
-}
-
-.paragraph-text .padding-btm {
-  padding-bottom: 20px;
-}
-
 
 .btn {
   text-transform: uppercase;
@@ -59,4 +57,19 @@ body {
   border-radius: 30px;
   border-color: #3e1600;
   font-size: 15px;
+}
+
+.brown-button {
+      display: block;
+    margin: 20px auto;
+    background: #3e1600;
+    border: 1px solid #3e1600;
+    border-radius: 30px;
+    padding: 16px 24px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: rgb(255, 255, 255);
+    box-shadow: 0px 7px 8px 0 rgb(255 255 255 / 10%);
+    transition: all 200ms ease-in-out;
 }
