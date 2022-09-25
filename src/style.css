@@ -10,7 +10,8 @@ body {
 }
 
 .slot-4 {
-  max-width: 1300px;
+  margin: 0 auto;
+  padding: 18px 112px;
 }
 
 .float-text-center-left {
@@ -24,6 +25,11 @@ body {
   padding: 10px auto;
 }
 
+.paragraph-dsg-slot2-slot3 {
+  margin: 0 auto;
+  padding: 10px 100px 10px 10px;
+}
+
 .title {
   font-size: 40px;
   line-height: 50px;
@@ -35,6 +41,15 @@ body {
   line-height: 24px;
   text-align: left;
 }
+
+.paragraph-text .padding-top {
+  padding-top: 20px;
+}
+
+.paragraph-text .padding-btm {
+  padding-bottom: 20px;
+}
+
 
 .btn {
   text-transform: uppercase;
