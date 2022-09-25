@@ -1,3 +1,7 @@
-h1 {
-  color: blue;
+.title {
+  font-size: 40px;
+}
+
+.paragraph-text {
+  font-size: 18px;
 }
