@@ -87,6 +87,10 @@ body {
   color: #545454;
 }
 
+.slot5-p-style-left {
+  margin: 10px 135px 50px 10px;
+}
+
 .btn {
   text-transform: uppercase;
   padding: 10px 30px;
