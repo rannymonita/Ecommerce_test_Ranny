@@ -1,13 +1,14 @@
 body {
   background-color: rgba(118, 118, 118, 0);
+  font-family: 'Poppins', serif;
 }
 
-.landingpage-wrapper {
-  background-color: rgba(118, 118, 118, 0);
+.container-fluid {
+  padding: 0px;
 }
 
 .img-fluid {
-  padding: 0px;
+  padding: 0px auto;
 }
 
 .slot-2 {
