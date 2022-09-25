@@ -1,3 +1,7 @@
+body {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
 .float-text-center-left {
   position: absolute;
   top: 20%;
@@ -6,7 +10,6 @@
   right: 50%;
   text-align: left;
   color: white;
-  background: rgba(0, 0, 0, 0.5);
 }
 
 .title {
@@ -19,18 +22,12 @@
   line-height: 24px;
 }
 
-.transparent-bg {
-  background: rgba(0, 0, 0, 0.5);
-}
-
 .btn {
   text-transform: uppercase;
   padding: 10px 30px;
-}
-.btn-bd-primary {
-  --bs-btn-font-weight: 600;
-  --bs-btn-color: var(--bs-white);
-  --bs-btn-bg: #3e1600;
-  --bs-btn-border-color: #3e1600;
-  --bs-btn-border-radius: 30px;
+  background-color: #3e1600;
+  color: white;
+  border-radius: 30px;
+  border-color: #3e1600;
+  font-size: 15px;
 }
