@@ -18,11 +18,13 @@
   line-height: 24px;
 }
 
-.btn-primary {
-  text-transform: capitalize;
+.btn {
+  background-color: #3e1600;
+  border: 1px solid #3e1600;
+  border-radius: 10px;
+  padding: 20px;
 }
 
-.btn-frame {
-  background-color: #3e1600;
-  border-radius: 10px;
+.btn-primary {
+  text-transform: uppercase;
 }
