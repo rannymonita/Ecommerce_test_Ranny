@@ -25,12 +25,12 @@ body {
 }
 
 .slot2-p-style {
-  margin-right: 105px;
-  margin-left: 20px;
+  margin: 0 105px 50px 20px;
 }
 
 .slot4-box {
   margin: 0 auto;
+  padding: 0 10px;
   display: inline-block;
 }
 .title {
