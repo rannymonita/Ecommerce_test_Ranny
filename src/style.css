@@ -1,3 +1,10 @@
+.float-text-center-left {
+  position: absolute;
+  top: 20%;
+  bottom: 20%;
+  text-align: left;
+}
+
 .title {
   font-size: 40px;
 }
