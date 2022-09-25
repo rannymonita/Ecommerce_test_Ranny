@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .slot-2 {
@@ -7,11 +7,6 @@ body {
   padding: 30px 45px;
   border-radius: 2px;
   max-width: 1300px;
-}
-
-.slot-4 {
-  margin: 0 auto;
-  padding: 18px 112px;
 }
 
 .bg-white {
@@ -30,7 +25,7 @@ body {
 }
 
 .slot2-p-style {
-  margin-left: 50px;
+  margin-right: 105px;
 }
 
 .title {
@@ -41,7 +36,7 @@ body {
 
 .title-2 {
   font-size: 30px;
-  line-height: 50px;
+  line-height: 41px;
   text-align: left;
 }
 
@@ -49,6 +44,14 @@ body {
   font-size: 18px;
   line-height: 24px;
   text-align: left;
+}
+
+..paragraph-text-2 {
+  font-size: 18px;
+  line-height: 24px;
+  text-align: left;
+  letter-spacing: -1px;
+  color: 4c4c4c;
 }
 
 .btn {
