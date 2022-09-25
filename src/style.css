@@ -25,14 +25,13 @@ body {
 }
 
 .slot2-p-style {
-  margin: 50px 135px 50px 20px;
+  margin: 80px 135px 80px 80px;
 }
 
 .slot4-box {
-  margin: 0 auto;
+  margin: 10px auto 50px;
   padding: 50px 10px;
   display: inline-block;
-  max-width: 1300px;
 }
 .title {
   font-size: 40px;
