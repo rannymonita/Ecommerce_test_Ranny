@@ -6,6 +6,7 @@
   right: 50%;
   text-align: left;
   color: white;
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .title {
@@ -18,14 +19,18 @@
   line-height: 24px;
 }
 
-.btn-bd-primary {
-  background-color: #3e1600;
-  border: 1px solid #3e1600;
-  padding: 10px 26px;
-  border-radius: 30px;
-  font-size: 12px;
-}
-
 .transparent-bg {
   background: rgba(0, 0, 0, 0.5);
+}
+
+.btn {
+  text-transform: uppercase;
+  padding: 10px 30px;
+}
+.btn-bd-primary {
+  --bs-btn-font-weight: 600;
+  --bs-btn-color: var(--bs-white);
+  --bs-btn-bg: #3e1600;
+  --bs-btn-border-color: #3e1600;
+  --bs-btn-border-radius: 30px;
 }
