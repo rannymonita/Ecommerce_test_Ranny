@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(118, 118, 118, 0);
 }
 
 .slot-2 {
@@ -46,12 +46,12 @@ body {
   text-align: left;
 }
 
-..paragraph-text-2 {
+.paragraph-text-2 {
   font-size: 18px;
-  line-height: 24px;
+  line-height: 20px;
   text-align: left;
-  letter-spacing: -1px;
-  color: 4c4c4c;
+  letter-spacing: 0px;
+  color: #4c4c4c;
 }
 
 .btn {
@@ -71,7 +71,7 @@ body {
   border: 1px solid #3e1600;
   border-radius: 30px;
   padding: 16px 24px;
-  font-size: 16px;
+  font-size: 13px;
   letter-spacing: 1px;
   line-height: 22px;
   color: rgb(255, 255, 255);
