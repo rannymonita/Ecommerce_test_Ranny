@@ -6,7 +6,11 @@ body {
   margin: 0 auto;
   padding: 30px 45px;
   border-radius: 2px;
-  max-width: 900px;
+  max-width: 1300px;
+}
+
+.slot-4 {
+  max-width: 1300px;
 }
 
 .float-text-center-left {
