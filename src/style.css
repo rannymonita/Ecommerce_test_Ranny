@@ -54,7 +54,7 @@ body {
 
 .title-4 {
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
   text-align: left;
   color: #545454;
 }
@@ -80,15 +80,23 @@ body {
   color: #545454;
 }
 
+.paragraph-text-3 {
+  font-size: 16px;
+  line-height: 20px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #545454;
+}
+
 .paragraph-text-4 {
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0px;
   text-align: left;
   color: #545454;
 }
 
 .slot5-p-style-left {
-  margin: 10px 135px 50px 10px;
+  margin: 10px 185px 50px 10px;
 }
 
 .btn {
